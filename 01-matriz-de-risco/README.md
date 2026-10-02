@@ -1,5 +1,4 @@
 # 📊 01 · Matriz de Gestão de Risco
-![Matriz de Risco](banner.png)
 
 > Primeiro projeto da série CloudFlux: estruturar do zero a gestão de riscos de TI de uma empresa que nunca teve isso documentado.
 
