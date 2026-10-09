@@ -1,5 +1,8 @@
 # 📊 01 · Matriz de Gestão de Risco
 
+![ISO 31000](https://img.shields.io/badge/ISO_31000-Gestão_de_Risco-4A90D9?style=flat)
+![NIST](https://img.shields.io/badge/NIST-Categorização_de_Riscos-E74C3C?style=flat)
+
 > Primeiro projeto da série CloudFlux: estruturar do zero a gestão de riscos de TI de uma empresa que nunca teve isso documentado.
 
 | | |

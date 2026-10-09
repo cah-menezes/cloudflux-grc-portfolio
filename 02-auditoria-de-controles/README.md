@@ -1,5 +1,10 @@
 # 🕵️‍♀️ 02 · Auditoria Interna de Verificação de Controles
 
+![ISO 19011](https://img.shields.io/badge/ISO_19011-Auditoria-4A90D9?style=flat)
+![COBIT 2019](https://img.shields.io/badge/COBIT_2019-MEA02-2ECC71?style=flat)
+![Docker](https://img.shields.io/badge/Docker-Laboratório-2496ED?style=flat&logo=docker&logoColor=white)
+
+
 > Seis meses depois da Matriz de Risco: os controles prometidos saíram do papel?
 
 | | |

@@ -1,5 +1,8 @@
 # 🏢 07 · SAP e ERP · Estudo Conceitual
 
+![SAP](https://img.shields.io/badge/SAP-S%2F4HANA_·_ECC-0FAAFF?style=flat)
+![ERP](https://img.shields.io/badge/ERP-Segregação_de_Funções-2ECC71?style=flat)
+
 > 📘 **Estudo conceitual, sem hands-on.** Mesmo em versão de teste, o SAP exige infraestrutura muito além de um ambiente doméstico de estudo. Este módulo cobre os conceitos que GRC precisa entender sobre ERP, sem simulação na ferramenta.
 
 | | |

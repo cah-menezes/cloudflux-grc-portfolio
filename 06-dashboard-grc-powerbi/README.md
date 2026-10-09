@@ -1,5 +1,7 @@
 # 📊 06 · Dashboard de Indicadores de GRC via Power BI
 
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 > 🚧 **Em evolução.** Este projeto está numa fase de exploração inicial da ferramenta e ainda não tem a versão final do dashboard publicada aqui.
 
 | | |

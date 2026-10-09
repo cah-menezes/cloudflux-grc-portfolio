@@ -1,5 +1,10 @@
 # 🔐 05 · Gestão de Identidade e Acesso via Keycloak
 
+![Keycloak](https://img.shields.io/badge/Keycloak-IAM-4D7CC0?style=flat)
+![Podman](https://img.shields.io/badge/Podman-Container-892CA0?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-Privilégio_Mínimo-2ECC71?style=flat)
+
+
 > O risco estava mapeado desde o primeiro projeto. Foi preciso um incidente para ele virar prioridade.
 
 | | |

@@ -1,5 +1,7 @@
 # 🛡️ 08 · Mapeamento de Dados Pessoais e RIPD (LGPD)
 
+![LGPD](https://img.shields.io/badge/LGPD-Lei_13.709%2F2018-E74C3C?style=flat)
+
 > Todo mundo olha para o banco de dados. O maior risco à privacidade estava num botão de suporte.
 
 | | |

@@ -1,5 +1,9 @@
 # 🚨 04 · Gestão de Incidente via Jira Service Management
 
+![Jira](https://img.shields.io/badge/Jira_Service_Management-Incident_Management-0052CC?style=flat&logo=jira&logoColor=white)
+![ITIL 4](https://img.shields.io/badge/ITIL_4-Incident_Management-7B68EE?style=flat)
+
+
 > Uma credencial válida, um horário estranho e um IP de outro estado. A VPN estava declarada como obrigatória. Estava mesmo?
 
 | | |

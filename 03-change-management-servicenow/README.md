@@ -1,5 +1,9 @@
 # 🛠️ 03 · Change Management do WAF via ServiceNow
 
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Change_Management-62D84E?style=flat&logo=servicenow&logoColor=black)
+![ITIL 4](https://img.shields.io/badge/ITIL_4-Change_Enablement-7B68EE?style=flat)
+
+
 > A auditoria encontrou o WAF desligado em produção. Ligar ele de volta não podia ser mais uma mudança feita sem processo.
 
 | | |
