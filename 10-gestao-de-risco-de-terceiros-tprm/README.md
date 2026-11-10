@@ -48,7 +48,6 @@ Ao mesmo tempo, a gestão financeira em planilha não aguentava mais o crescimen
 | 6 · Parecer | Decisão fundamentada, com condições |
 | 7 · Rastreabilidade | Matriz ligando cada lacuna ao seu tratamento, status e risco residual |
 
-📝 Nota de processo: na vida real, o NDA seria assinado pelo **Jurídico**, e não pela analista de GRC. Na simulação, a assinatura foi feita por representantes fictícios das duas empresas.
 
 ---
 
