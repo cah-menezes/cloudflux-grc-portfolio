@@ -1,4 +1,4 @@
-kk# 📄 09 · Política de Segurança da Informação (PSI)
+# 📄 09 · Política de Segurança da Informação (PSI)
 
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-Segurança_da_Informação-4A90D9?style=flat)
 ![NIST CSF](https://img.shields.io/badge/NIST-Cybersecurity_Framework-E74C3C?style=flat)
